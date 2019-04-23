@@ -7,6 +7,9 @@ A must read if you are coming from different programming language. Read all the 
 
 [Python FAQs](https://docs.python.org/3/faq/index.html)
 
+[Python Official Tutorial](https://docs.python.org/3/tutorial/index.html):
+Complete this tutorial if you are experienced programmer or have computer science background. 
+
 Python Styling Guide:
 
 https://www.python.org/dev/peps/pep-0008/
